@@ -1,0 +1,11 @@
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.deps.json
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.runtimeconfig.json
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.runtimeconfig.dev.json
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.dll
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.pdb
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.csprojAssemblyReference.cache
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.AssemblyInfoInputs.cache
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.AssemblyInfo.cs
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.dll
+C:\Users\Alec\Documents\_PROGRAMMING\C#\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.pdb
